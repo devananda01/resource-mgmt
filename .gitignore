@@ -1,7 +1,6 @@
 # JSON data files
 utils/resources.json
 
-
 # Logs
 logs
 *.log
